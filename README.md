@@ -40,8 +40,8 @@ _Histology foundation models obtained from the [Mahmood Lab TRIDENT repository](
 
 
 
-## Fusion Methadologies
-Contemporary fusion approaches in medical imaging include early fusion, intermediate fusion, and late fusion methodologies. This project implements **intermediate fusion methodologies** to combine histology and radiology images.
+## Multimodal Architectures
+Contemporary fusion methadologies in medical imaging include early fusion, intermediate fusion, and late fusion methodologies. This project implements **intermediate fusion methodologies** to combine histology and radiology images.
 
 ## Marginal Intermediate Fusion
 Marginal intermediate fusion refers to combining vector representations of each modality **with no additional learning**​.
@@ -127,7 +127,7 @@ This work utilises pretrained histopathology foundation models from the Mahmood 
 
 ## Acknowledgments
 - TIA Centre (Tissue Image Analytics) for institutional support
-- CHIMERA Challenge organizers and data contributors
+- CHIMERA Challenge organisers and data contributors
 - Mahmood Lab for providing pretrained foundation models via the TRIDENT repository
 - Pre-trained radiology model authors (MedicalNet, nnU-net)
 
