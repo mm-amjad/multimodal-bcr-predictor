@@ -4,9 +4,9 @@
 This research project was conducted at the **TIA Centre (Tissue Image Analytics)**, University of Warwick, under the supervision of Dr. Adam Shephard and Dr. Nasir Rajpoot, with funding provided by the **Undergraduate Research Support Scheme (URSS)**. 
 
 ## Overview
-This project investigates whether **combining radiology and histology data** through **multimodal deep learning** approaches can improve predictions of time to biochemical recurrence (BCR) following prostatectomy compared to **unimodal approaches**. Unimodal architectures using histology and radiology images alone were benchmarked against multimodal architectures using both modalities together, using time-to-event analysis with **C-Index** as the primary metric of comparison. <br />
+This project investigates whether combining radiology and histology data through **multimodal deep learning** can improve predictions of time to biochemical recurrence (BCR) following prostatectomy compared to using either data type alone. Unimodal architectures using histology and radiology images alone were benchmarked against multimodal architectures using both modalities together, using time-to-event analysis with **C-Index** as the primary metric of comparison. <br />
 
-To evaluate whether histology-radiology multimodal models can outperform unimodal models in predicting time to BCR, we first developed a unimodal architecture that uses only histology or radiology images, followed by multimodal architectures that uses both modalities simultaneously. We then benchmarked the best performing unimodal architecture against the best performing multimodal architecture for this task.
+To evaluate whether histology-radiology multimodal models can outperform unimodal models in predicting time to BCR, we first developed a unimodal architecture that uses only histology or radiology images, followed by multimodal architectures that use both modalities simultaneously. We then benchmarked the best performing unimodal architecture against the best performing multimodal architecture for this task.
 
 ## Dataset
 We used the CHIMERA dataset ([CHIMERA Challenge](https://chimera.grand-challenge.org/task-1-prostate-cancer-biochemical-recurrent-prediction/)) containing:
@@ -92,7 +92,7 @@ We used the **CHIMERA dataset** from the CHIMERA Challenge: Combining histology,
 }
 ```
 
-This work utilises pretrained histopathology foundation models from the Mahmood Lab TRIDENT repository:
+This work utilises pretrained histopathology foundation models from the **Mahmood Lab TRIDENT repository**:
 ```bibtex
 @software{mahmood_lab_trident,
   title={TRIDENT: Towards Reliable multimodal Integrative DiagnosticE Network Technologies},
