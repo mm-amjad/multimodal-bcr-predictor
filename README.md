@@ -1,4 +1,4 @@
-# Multimodal Approaches to Computational Pathology
+# Exploring Multimodal Approaches in Computational Pathology
 
 ## Project Background
 This research project was conducted at the **TIA Centre (Tissue Image Analytics)**, University of Warwick, under the supervision of Dr. Adam Shephard and Dr. Nasir Rajpoot, with funding provided by the **Undergraduate Research Support Scheme (URSS)**. 
