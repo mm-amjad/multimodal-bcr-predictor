@@ -53,8 +53,7 @@ After getting vector representations of each modality, the vectors were concaten
 ## Joint Intermediate Fusion
 Joint intermediate fusion refers to combining vector representations of each modality **with additional learning**​.
 
-<img width="1093" height="449" alt="Screenshot 2025-09-23 at 21 44 59" src="https://github.com/user-attachments/assets/a68bd68c-564b-448b-b6ed-0696678f6c4a" />
-
+<img width="1060" height="436" alt="Screenshot 2025-09-23 at 21 47 57" src="https://github.com/user-attachments/assets/c161c1da-7b41-458d-b00b-ebe16454d4ba" />
 
 After getting vector representations of each modality, **cross-attention** is run on both histology and radiology vectors to give both vectors context based on the vector representation of the other modality. These vectors are passed through a cross-attention attention layer and updated accordingly. <br /> 
 
