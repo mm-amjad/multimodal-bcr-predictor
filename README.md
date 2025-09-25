@@ -132,7 +132,7 @@ This work utilises pretrained histopathology foundation models from the Mahmood 
 
 ## Contact
 **Seth Alain Chang** - [https://www.linkedin.com/in/seth-alain-chang/]  <br />  
-**Muhammad Amjad** - [https://www.linkedin.com/in/m4mjad/]
+**Muhammad Amjad** - [https://www.linkedin.com/in/mm-amjad/]
 
 
 
