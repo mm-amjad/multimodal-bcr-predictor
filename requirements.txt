@@ -1,0 +1,6 @@
+h5py==3.14.0
+lifelines==0.30.0
+numpy==2.3.3
+pycox==0.3.0
+scikit_learn==1.7.2
+torch==2.8.0
