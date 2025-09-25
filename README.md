@@ -41,7 +41,7 @@ _Histology foundation models obtained from the [Mahmood Lab TRIDENT repository](
 
 
 ## Multimodal Architectures
-Contemporary fusion methadologies in medical imaging include early fusion, intermediate fusion, and late fusion methodologies. This project implements **intermediate fusion methodologies** to combine histology and radiology images.
+Contemporary fusion methodologies in medical imaging include early fusion, intermediate fusion, and late fusion methodologies. This project implements **intermediate fusion methodologies** to combine histology and radiology images.
 
 ## Marginal Intermediate Fusion
 Marginal intermediate fusion refers to combining vector representations of each modality **with no additional learning**​.
@@ -71,7 +71,7 @@ After both histology and radiology vectors have been updated, they are combined 
 | MedicalNet (Radiology) | 0.5584 ± 0.1250 |
 
 ### Multimodal Results
-| Fusion Methadology | Average C-Index (10 repeats) |
+| Fusion methodology | Average C-Index (10 repeats) |
 |:----------------:|:------------------------------:|
 | Marginal Intermediate Fusion | 0.7520 ± 0.1069​ |
 | Joint Intermediate Fusion | 0.7420 ± 0.1114​ |
