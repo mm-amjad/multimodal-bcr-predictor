@@ -76,7 +76,7 @@ After both histology and radiology vectors have been updated, they are combined 
 | Marginal Intermediate Fusion | 0.7520 ± 0.1069​ |
 | Joint Intermediate Fusion | 0.7420 ± 0.1114​ |
 
-- **Radiology features alone** were **not a good predictor** for time to BCR, with an average C-Index score of 0.55 across 2 encoderss
+- **Radiology features alone** were **not a good predictor** for time to BCR, with an average C-Index score of 0.55 across 2 encoders
 - Both Marginal and Joint Intermediate Fusion **did not yield better results** compared to unimodal approaches, with histology alone being a better predictor​
 - Despite radiology's clinical relevance, its weak predictive power (C-index = 0.55)  **degraded the performance** of histology-based models rather than providing complementary information
 - Incorporating modalities with poor individual predictive performance in multimodal approaches **can be counterproductive**
